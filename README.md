@@ -16,6 +16,8 @@
 | [docs/00_overview.md](docs/00_overview.md) | シリーズ全体像・作品一覧・時系列（作成中） |
 | [docs/01_pailsen_files.md](docs/01_pailsen_files.md) | ペールゼン・ファイルズ分析（最初のテーマ） |
 | [docs/02_kirico_fyana_tv.md](docs/02_kirico_fyana_tv.md) | キリコとフィアナ／神の領域に踏み込むTV第41〜52話（重点分析） |
+| [docs/07_ovas.md](docs/07_ovas.md) | OVA以降の深掘り（赫奕たる異端・孤影再び・幻影篇） |
+| [docs/06_synthesis.md](docs/06_synthesis.md) | 総括：ボトムズは誰の物語か |
 | [docs/05_settings.md](docs/05_settings.md) | 設定整理（異能生存体・PS・ヂヂリウム・ワイズマン・クエント・暦） |
 | [docs/04_udo_kumen_intro.md](docs/04_udo_kumen_intro.md) | キリコとフィアナの出会い：ウド編〜クメン導入（TV第1〜19話） |
 | [docs/03_fyana_kumen_sansa.md](docs/03_fyana_kumen_sansa.md) | フィアナ：クメン・サンサ編（TV第21〜40話） |
