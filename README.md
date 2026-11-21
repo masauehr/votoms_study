@@ -15,6 +15,7 @@
 |---|---|
 | [docs/00_overview.md](docs/00_overview.md) | シリーズ全体像・作品一覧・時系列（作成中） |
 | [docs/01_pailsen_files.md](docs/01_pailsen_files.md) | ペールゼン・ファイルズ分析（最初のテーマ） |
+| [docs/02_kirico_fyana_tv.md](docs/02_kirico_fyana_tv.md) | キリコとフィアナ／神の領域に踏み込むTV第41〜52話（重点分析） |
 | [docs/questions.md](docs/questions.md) | 疑問・検証メモ（確認済み／未確認の区別つき） |
 
 ## 方針
