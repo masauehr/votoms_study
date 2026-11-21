@@ -16,6 +16,7 @@
 | [docs/00_overview.md](docs/00_overview.md) | シリーズ全体像・作品一覧・時系列（作成中） |
 | [docs/01_pailsen_files.md](docs/01_pailsen_files.md) | ペールゼン・ファイルズ分析（最初のテーマ） |
 | [docs/02_kirico_fyana_tv.md](docs/02_kirico_fyana_tv.md) | キリコとフィアナ／神の領域に踏み込むTV第41〜52話（重点分析） |
+| [docs/04_udo_kumen_intro.md](docs/04_udo_kumen_intro.md) | キリコとフィアナの出会い：ウド編〜クメン導入（TV第1〜19話） |
 | [docs/03_fyana_kumen_sansa.md](docs/03_fyana_kumen_sansa.md) | フィアナ：クメン・サンサ編（TV第21〜40話） |
 | [docs/questions.md](docs/questions.md) | 疑問・検証メモ（確認済み／未確認の区別つき） |
 
