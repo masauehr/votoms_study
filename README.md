@@ -21,6 +21,7 @@
 | [docs/05_settings.md](docs/05_settings.md) | 設定整理（異能生存体・PS・ヂヂリウム・ワイズマン・クエント・暦） |
 | [docs/04_udo_kumen_intro.md](docs/04_udo_kumen_intro.md) | キリコとフィアナの出会い：ウド編〜クメン導入（TV第1〜19話） |
 | [docs/03_fyana_kumen_sansa.md](docs/03_fyana_kumen_sansa.md) | フィアナ：クメン・サンサ編（TV第21〜40話） |
+| [docs/08_viewing_guide.md](docs/08_viewing_guide.md) | 視聴ガイド（配信先・見る順番・総集編の話数） |
 | [docs/questions.md](docs/questions.md) | 疑問・検証メモ（確認済み／未確認の区別つき） |
 
 ## 方針
